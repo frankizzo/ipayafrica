@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Francis Thiong'o",
+    "email": "francisthiongo@gmail.com"
+  },
+  "name": "ipayafrica",
+  "description": "Integrates ipay africa payment gateway in your [node/io].js applications",
+  "license": "MIT",
+  "version": "0.0.2",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frankizzo/ipayafrica.git"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {},
+  "gitHead": "64730f219f462ebdd476ff32f15dd05017ae5c50",
+  "bugs": {
+    "url": "https://github.com/frankizzo/ipayafrica/issues"
+  },
+  "keywords": [
+    "ipay",
+    "ipayafrica",
+    "payment gateway"
+  ],
+  "homepage": "https://github.com/frankizzo/ipayafrica#readme",
+  "maintainers": [
+    {
+      "name": "frankizzo",
+      "email": "francisthiongo@gmail.com"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
