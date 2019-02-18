@@ -13,6 +13,7 @@ $ npm install -g ipayafrica
 
 ### Usage
 
+```javascript
 var Ipay = require('ipayafrica');
 var ipay = new Ipay.IpayAfrica({vendor_id:'demo',hash_key:'demo',live:false});
 var request={
@@ -30,6 +31,7 @@ var request={
 ipay.Rest(request,function(err,res){
 	
 });
+```
 
 ### Contribution
 
